@@ -4,30 +4,30 @@
       "type": "space",
       "advances": {
         " ": 4,
-        "": -1,
-        "": -2,
-        "": -3,
-        "": -4,
-        "": -5,
-        "": -6,
-        "": -7,
-        "": -8,
-        "": -16,
-        "": -32,
-        "": -64,
-        "": -128,
-        "": 1,
-        "": 2,
-        "": 3,
-        "": 4,
-        "": 5,
-        "": 6,
-        "": 7,
-        "": 8,
-        "": 16,
-        "": 32,
-        "": 64,
-        "": 128
+        "\uf801": -1,
+        "\uf802": -2,
+        "\uf803": -3,
+        "\uf804": -4,
+        "\uf805": -5,
+        "\uf806": -6,
+        "\uf807": -7,
+        "\uf808": -8,
+        "\uf809": -16,
+        "\uf80a": -32,
+        "\uf80b": -64,
+        "\uf80c": -128,
+        "\uf811": 1,
+        "\uf812": 2,
+        "\uf813": 3,
+        "\uf814": 4,
+        "\uf815": 5,
+        "\uf816": 6,
+        "\uf817": 7,
+        "\uf818": 8,
+        "\uf819": 16,
+        "\uf81a": 32,
+        "\uf81b": 64,
+        "\uf81c": 128
       }
     },
     {
@@ -35,224 +35,288 @@
       "file": "protsmp:font/hud_frame.png",
       "ascent": 28,
       "height": 40,
-      "chars": [""]
+      "chars": [
+        "\ue000"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:font/socket_ready.png",
       "ascent": 24,
       "height": 32,
-      "chars": [""]
+      "chars": [
+        "\ue002"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:font/socket_locked.png",
       "ascent": 24,
       "height": 32,
-      "chars": [""]
+      "chars": [
+        "\ue003"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:item/enchant_frost.png",
-      "ascent": 17,
+      "ascent": 20,
       "height": 24,
-      "chars": [""]
+      "chars": [
+        "\ue010"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:item/enchant_acid.png",
-      "ascent": 17,
+      "ascent": 20,
       "height": 24,
-      "chars": [""]
+      "chars": [
+        "\ue011"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:item/enchant_darkness.png",
-      "ascent": 17,
+      "ascent": 20,
       "height": 24,
-      "chars": [""]
+      "chars": [
+        "\ue012"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:item/enchant_fire.png",
-      "ascent": 17,
+      "ascent": 20,
       "height": 24,
-      "chars": [""]
+      "chars": [
+        "\ue013"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:item/enchant_earth.png",
-      "ascent": 17,
+      "ascent": 20,
       "height": 24,
-      "chars": [""]
+      "chars": [
+        "\ue014"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:item/enchant_wind.png",
-      "ascent": 17,
+      "ascent": 20,
       "height": 24,
-      "chars": [""]
+      "chars": [
+        "\ue015"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:item/enchant_ocean.png",
-      "ascent": 17,
+      "ascent": 20,
       "height": 24,
-      "chars": [""]
+      "chars": [
+        "\ue016"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:item/enchant_electric.png",
-      "ascent": 17,
+      "ascent": 20,
       "height": 24,
-      "chars": [""]
+      "chars": [
+        "\ue017"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:item/enchant_health.png",
-      "ascent": 17,
+      "ascent": 20,
       "height": 24,
-      "chars": [""]
+      "chars": [
+        "\ue018"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:item/enchant_skulk.png",
-      "ascent": 17,
+      "ascent": 20,
       "height": 24,
-      "chars": [""]
+      "chars": [
+        "\ue019"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:font/digits.png",
       "ascent": 8,
       "height": 11,
-      "chars": [""]
+      "chars": [
+        "\ue020\ue021\ue022\ue023\ue024\ue025\ue026\ue027\ue028\ue029"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:font/digits_cyan.png",
       "ascent": 8,
       "height": 11,
-      "chars": [""]
+      "chars": [
+        "\ue030\ue031\ue032\ue033\ue034\ue035\ue036\ue037\ue038\ue039"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:font/colon.png",
       "ascent": 8,
       "height": 11,
-      "chars": [""]
+      "chars": [
+        "\ue02a"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:font/cd_ring_00.png",
       "ascent": 24,
       "height": 32,
-      "chars": [""]
+      "chars": [
+        "\ue050"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:font/cd_ring_01.png",
       "ascent": 24,
       "height": 32,
-      "chars": [""]
+      "chars": [
+        "\ue051"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:font/cd_ring_02.png",
       "ascent": 24,
       "height": 32,
-      "chars": [""]
+      "chars": [
+        "\ue052"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:font/cd_ring_03.png",
       "ascent": 24,
       "height": 32,
-      "chars": [""]
+      "chars": [
+        "\ue053"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:font/cd_ring_04.png",
       "ascent": 24,
       "height": 32,
-      "chars": [""]
+      "chars": [
+        "\ue054"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:font/cd_ring_05.png",
       "ascent": 24,
       "height": 32,
-      "chars": [""]
+      "chars": [
+        "\ue055"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:font/cd_ring_06.png",
       "ascent": 24,
       "height": 32,
-      "chars": [""]
+      "chars": [
+        "\ue056"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:font/cd_ring_07.png",
       "ascent": 24,
       "height": 32,
-      "chars": [""]
+      "chars": [
+        "\ue057"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:font/cd_ring_08.png",
       "ascent": 24,
       "height": 32,
-      "chars": [""]
+      "chars": [
+        "\ue058"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:font/cd_ring_09.png",
       "ascent": 24,
       "height": 32,
-      "chars": [""]
+      "chars": [
+        "\ue059"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:font/cd_ring_10.png",
       "ascent": 24,
       "height": 32,
-      "chars": [""]
+      "chars": [
+        "\ue05a"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:font/cd_ring_11.png",
       "ascent": 24,
       "height": 32,
-      "chars": [""]
+      "chars": [
+        "\ue05b"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:font/pip_full.png",
-      "ascent": 7,
-      "height": 9,
-      "chars": [""]
+      "ascent": 9,
+      "height": 24,
+      "chars": [
+        "\ue060"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:font/pip_empty.png",
-      "ascent": 7,
-      "height": 9,
-      "chars": [""]
+      "ascent": 9,
+      "height": 24,
+      "chars": [
+        "\ue061"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:font/pip_neg.png",
-      "ascent": 7,
-      "height": 9,
-      "chars": [""]
+      "ascent": 9,
+      "height": 24,
+      "chars": [
+        "\ue062"
+      ]
     },
     {
       "type": "bitmap",
       "file": "protsmp:font/label_locked.png",
       "ascent": 7,
       "height": 9,
-      "chars": [""]
+      "chars": [
+        "\ue063"
+      ]
     }
   ]
 }
