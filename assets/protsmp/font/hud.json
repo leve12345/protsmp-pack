@@ -1,0 +1,258 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        " ": 4,
+        "": -1,
+        "": -2,
+        "": -3,
+        "": -4,
+        "": -5,
+        "": -6,
+        "": -7,
+        "": -8,
+        "": -16,
+        "": -32,
+        "": -64,
+        "": -128,
+        "": 1,
+        "": 2,
+        "": 3,
+        "": 4,
+        "": 5,
+        "": 6,
+        "": 7,
+        "": 8,
+        "": 16,
+        "": 32,
+        "": 64,
+        "": 128
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:font/hud_frame.png",
+      "ascent": 28,
+      "height": 40,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:font/socket_ready.png",
+      "ascent": 24,
+      "height": 32,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:font/socket_locked.png",
+      "ascent": 24,
+      "height": 32,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:item/enchant_frost.png",
+      "ascent": 17,
+      "height": 24,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:item/enchant_acid.png",
+      "ascent": 17,
+      "height": 24,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:item/enchant_darkness.png",
+      "ascent": 17,
+      "height": 24,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:item/enchant_fire.png",
+      "ascent": 17,
+      "height": 24,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:item/enchant_earth.png",
+      "ascent": 17,
+      "height": 24,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:item/enchant_wind.png",
+      "ascent": 17,
+      "height": 24,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:item/enchant_ocean.png",
+      "ascent": 17,
+      "height": 24,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:item/enchant_electric.png",
+      "ascent": 17,
+      "height": 24,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:item/enchant_health.png",
+      "ascent": 17,
+      "height": 24,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:item/enchant_skulk.png",
+      "ascent": 17,
+      "height": 24,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:font/digits.png",
+      "ascent": 8,
+      "height": 11,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:font/digits_cyan.png",
+      "ascent": 8,
+      "height": 11,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:font/colon.png",
+      "ascent": 8,
+      "height": 11,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:font/cd_ring_00.png",
+      "ascent": 24,
+      "height": 32,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:font/cd_ring_01.png",
+      "ascent": 24,
+      "height": 32,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:font/cd_ring_02.png",
+      "ascent": 24,
+      "height": 32,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:font/cd_ring_03.png",
+      "ascent": 24,
+      "height": 32,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:font/cd_ring_04.png",
+      "ascent": 24,
+      "height": 32,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:font/cd_ring_05.png",
+      "ascent": 24,
+      "height": 32,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:font/cd_ring_06.png",
+      "ascent": 24,
+      "height": 32,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:font/cd_ring_07.png",
+      "ascent": 24,
+      "height": 32,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:font/cd_ring_08.png",
+      "ascent": 24,
+      "height": 32,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:font/cd_ring_09.png",
+      "ascent": 24,
+      "height": 32,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:font/cd_ring_10.png",
+      "ascent": 24,
+      "height": 32,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:font/cd_ring_11.png",
+      "ascent": 24,
+      "height": 32,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:font/pip_full.png",
+      "ascent": 7,
+      "height": 9,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:font/pip_empty.png",
+      "ascent": 7,
+      "height": 9,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:font/pip_neg.png",
+      "ascent": 7,
+      "height": 9,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "protsmp:font/label_locked.png",
+      "ascent": 7,
+      "height": 9,
+      "chars": [""]
+    }
+  ]
+}
