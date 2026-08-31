@@ -1,6 +1,7 @@
 {
   "textures": {
     "cover": "protsmp:item/book_frost_cover",
+    "side": "protsmp:item/book_frost_side",
     "spine": "protsmp:item/book_frost_spine",
     "pages": "protsmp:item/book_pages",
     "particle": "protsmp:item/book_frost_cover"
@@ -9,6 +10,74 @@
     {
       "from": [
         3,
+        5,
+        4
+      ],
+      "to": [
+        4,
+        11,
+        12
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#spine"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#spine"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#spine"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#spine"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#spine"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#spine"
+        }
+      }
+    },
+    {
+      "from": [
+        4,
         5,
         4
       ],
@@ -25,7 +94,7 @@
             16,
             16
           ],
-          "texture": "#cover"
+          "texture": "#side"
         },
         "south": {
           "uv": [
@@ -34,7 +103,7 @@
             16,
             16
           ],
-          "texture": "#cover"
+          "texture": "#side"
         },
         "east": {
           "uv": [
@@ -43,7 +112,7 @@
             16,
             16
           ],
-          "texture": "#cover"
+          "texture": "#side"
         },
         "west": {
           "uv": [
@@ -52,7 +121,7 @@
             16,
             16
           ],
-          "texture": "#cover"
+          "texture": "#side"
         },
         "up": {
           "uv": [
@@ -61,7 +130,7 @@
             16,
             16
           ],
-          "texture": "#cover"
+          "texture": "#side"
         },
         "down": {
           "uv": [
@@ -76,7 +145,7 @@
     },
     {
       "from": [
-        3,
+        4,
         10,
         4
       ],
@@ -93,7 +162,7 @@
             16,
             16
           ],
-          "texture": "#cover"
+          "texture": "#side"
         },
         "south": {
           "uv": [
@@ -102,7 +171,7 @@
             16,
             16
           ],
-          "texture": "#cover"
+          "texture": "#side"
         },
         "east": {
           "uv": [
@@ -111,7 +180,7 @@
             16,
             16
           ],
-          "texture": "#cover"
+          "texture": "#side"
         },
         "west": {
           "uv": [
@@ -120,7 +189,7 @@
             16,
             16
           ],
-          "texture": "#cover"
+          "texture": "#side"
         },
         "up": {
           "uv": [
@@ -138,7 +207,7 @@
             16,
             16
           ],
-          "texture": "#cover"
+          "texture": "#side"
         }
       }
     },
@@ -207,74 +276,6 @@
             16
           ],
           "texture": "#pages"
-        }
-      }
-    },
-    {
-      "from": [
-        3,
-        5,
-        4
-      ],
-      "to": [
-        4,
-        11,
-        12
-      ],
-      "faces": {
-        "north": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
-          "texture": "#spine"
-        },
-        "south": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
-          "texture": "#spine"
-        },
-        "east": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
-          "texture": "#spine"
-        },
-        "west": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
-          "texture": "#spine"
-        },
-        "up": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
-          "texture": "#spine"
-        },
-        "down": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
-          "texture": "#spine"
         }
       }
     }
