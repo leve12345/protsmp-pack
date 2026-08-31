@@ -312,8 +312,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/label_locked.png",
-      "ascent": 7,
-      "height": 9,
+      "ascent": 9,
+      "height": 32,
       "chars": [
         "\ue063"
       ]
