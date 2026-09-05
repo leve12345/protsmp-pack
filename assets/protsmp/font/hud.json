@@ -33,8 +33,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/hud_plate.png",
-      "ascent": 32,
-      "height": 44,
+      "ascent": 26,
+      "height": 35,
       "chars": [
         "\ue000"
       ]
@@ -42,8 +42,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/hud_trim.png",
-      "ascent": 32,
-      "height": 44,
+      "ascent": 26,
+      "height": 35,
       "chars": [
         "\ue001"
       ]
@@ -51,8 +51,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/hud_socket_high.png",
-      "ascent": 92,
-      "height": 92,
+      "ascent": 74,
+      "height": 74,
       "chars": [
         "\ue004"
       ]
@@ -60,8 +60,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/hud_socket_trim_high.png",
-      "ascent": 92,
-      "height": 92,
+      "ascent": 74,
+      "height": 74,
       "chars": [
         "\ue005"
       ]
@@ -69,8 +69,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_ready_high.png",
-      "ascent": 90,
-      "height": 90,
+      "ascent": 72,
+      "height": 72,
       "chars": [
         "\ue006"
       ]
@@ -78,8 +78,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_locked_high.png",
-      "ascent": 90,
-      "height": 90,
+      "ascent": 72,
+      "height": 72,
       "chars": [
         "\ue007"
       ]
@@ -87,8 +87,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_ready.png",
-      "ascent": 28,
-      "height": 36,
+      "ascent": 22,
+      "height": 29,
       "chars": [
         "\ue002"
       ]
@@ -96,8 +96,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_locked.png",
-      "ascent": 28,
-      "height": 36,
+      "ascent": 22,
+      "height": 29,
       "chars": [
         "\ue003"
       ]
@@ -105,8 +105,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:item/enchant_frost.png",
-      "ascent": 22,
-      "height": 24,
+      "ascent": 18,
+      "height": 19,
       "chars": [
         "\ue010"
       ]
@@ -114,8 +114,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:item/enchant_acid.png",
-      "ascent": 22,
-      "height": 24,
+      "ascent": 18,
+      "height": 19,
       "chars": [
         "\ue011"
       ]
@@ -123,8 +123,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:item/enchant_darkness.png",
-      "ascent": 22,
-      "height": 24,
+      "ascent": 18,
+      "height": 19,
       "chars": [
         "\ue012"
       ]
@@ -132,8 +132,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:item/enchant_fire.png",
-      "ascent": 22,
-      "height": 24,
+      "ascent": 18,
+      "height": 19,
       "chars": [
         "\ue013"
       ]
@@ -141,8 +141,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:item/enchant_earth.png",
-      "ascent": 22,
-      "height": 24,
+      "ascent": 18,
+      "height": 19,
       "chars": [
         "\ue014"
       ]
@@ -150,8 +150,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:item/enchant_wind.png",
-      "ascent": 22,
-      "height": 24,
+      "ascent": 18,
+      "height": 19,
       "chars": [
         "\ue015"
       ]
@@ -159,8 +159,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:item/enchant_ocean.png",
-      "ascent": 22,
-      "height": 24,
+      "ascent": 18,
+      "height": 19,
       "chars": [
         "\ue016"
       ]
@@ -168,8 +168,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:item/enchant_electric.png",
-      "ascent": 22,
-      "height": 24,
+      "ascent": 18,
+      "height": 19,
       "chars": [
         "\ue017"
       ]
@@ -177,8 +177,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:item/enchant_health.png",
-      "ascent": 22,
-      "height": 24,
+      "ascent": 18,
+      "height": 19,
       "chars": [
         "\ue018"
       ]
@@ -186,8 +186,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:item/enchant_skulk.png",
-      "ascent": 22,
-      "height": 24,
+      "ascent": 18,
+      "height": 19,
       "chars": [
         "\ue019"
       ]
@@ -195,8 +195,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_00.png",
-      "ascent": 28,
-      "height": 36,
+      "ascent": 22,
+      "height": 29,
       "chars": [
         "\ue020"
       ]
@@ -204,8 +204,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_00_high.png",
-      "ascent": 90,
-      "height": 90,
+      "ascent": 72,
+      "height": 72,
       "chars": [
         "\ue100"
       ]
@@ -213,8 +213,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_01.png",
-      "ascent": 28,
-      "height": 36,
+      "ascent": 22,
+      "height": 29,
       "chars": [
         "\ue021"
       ]
@@ -222,8 +222,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_01_high.png",
-      "ascent": 90,
-      "height": 90,
+      "ascent": 72,
+      "height": 72,
       "chars": [
         "\ue101"
       ]
@@ -231,8 +231,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_02.png",
-      "ascent": 28,
-      "height": 36,
+      "ascent": 22,
+      "height": 29,
       "chars": [
         "\ue022"
       ]
@@ -240,8 +240,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_02_high.png",
-      "ascent": 90,
-      "height": 90,
+      "ascent": 72,
+      "height": 72,
       "chars": [
         "\ue102"
       ]
@@ -249,8 +249,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_03.png",
-      "ascent": 28,
-      "height": 36,
+      "ascent": 22,
+      "height": 29,
       "chars": [
         "\ue023"
       ]
@@ -258,8 +258,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_03_high.png",
-      "ascent": 90,
-      "height": 90,
+      "ascent": 72,
+      "height": 72,
       "chars": [
         "\ue103"
       ]
@@ -267,8 +267,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_04.png",
-      "ascent": 28,
-      "height": 36,
+      "ascent": 22,
+      "height": 29,
       "chars": [
         "\ue024"
       ]
@@ -276,8 +276,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_04_high.png",
-      "ascent": 90,
-      "height": 90,
+      "ascent": 72,
+      "height": 72,
       "chars": [
         "\ue104"
       ]
@@ -285,8 +285,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_05.png",
-      "ascent": 28,
-      "height": 36,
+      "ascent": 22,
+      "height": 29,
       "chars": [
         "\ue025"
       ]
@@ -294,8 +294,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_05_high.png",
-      "ascent": 90,
-      "height": 90,
+      "ascent": 72,
+      "height": 72,
       "chars": [
         "\ue105"
       ]
@@ -303,8 +303,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_06.png",
-      "ascent": 28,
-      "height": 36,
+      "ascent": 22,
+      "height": 29,
       "chars": [
         "\ue026"
       ]
@@ -312,8 +312,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_06_high.png",
-      "ascent": 90,
-      "height": 90,
+      "ascent": 72,
+      "height": 72,
       "chars": [
         "\ue106"
       ]
@@ -321,8 +321,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_07.png",
-      "ascent": 28,
-      "height": 36,
+      "ascent": 22,
+      "height": 29,
       "chars": [
         "\ue027"
       ]
@@ -330,8 +330,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_07_high.png",
-      "ascent": 90,
-      "height": 90,
+      "ascent": 72,
+      "height": 72,
       "chars": [
         "\ue107"
       ]
@@ -339,8 +339,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_08.png",
-      "ascent": 28,
-      "height": 36,
+      "ascent": 22,
+      "height": 29,
       "chars": [
         "\ue028"
       ]
@@ -348,8 +348,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_08_high.png",
-      "ascent": 90,
-      "height": 90,
+      "ascent": 72,
+      "height": 72,
       "chars": [
         "\ue108"
       ]
@@ -357,8 +357,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_09.png",
-      "ascent": 28,
-      "height": 36,
+      "ascent": 22,
+      "height": 29,
       "chars": [
         "\ue029"
       ]
@@ -366,8 +366,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_09_high.png",
-      "ascent": 90,
-      "height": 90,
+      "ascent": 72,
+      "height": 72,
       "chars": [
         "\ue109"
       ]
@@ -375,8 +375,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_10.png",
-      "ascent": 28,
-      "height": 36,
+      "ascent": 22,
+      "height": 29,
       "chars": [
         "\ue02a"
       ]
@@ -384,8 +384,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_10_high.png",
-      "ascent": 90,
-      "height": 90,
+      "ascent": 72,
+      "height": 72,
       "chars": [
         "\ue10a"
       ]
@@ -393,8 +393,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_11.png",
-      "ascent": 28,
-      "height": 36,
+      "ascent": 22,
+      "height": 29,
       "chars": [
         "\ue02b"
       ]
@@ -402,8 +402,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_11_high.png",
-      "ascent": 90,
-      "height": 90,
+      "ascent": 72,
+      "height": 72,
       "chars": [
         "\ue10b"
       ]
@@ -411,8 +411,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_12.png",
-      "ascent": 28,
-      "height": 36,
+      "ascent": 22,
+      "height": 29,
       "chars": [
         "\ue02c"
       ]
@@ -420,8 +420,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_12_high.png",
-      "ascent": 90,
-      "height": 90,
+      "ascent": 72,
+      "height": 72,
       "chars": [
         "\ue10c"
       ]
@@ -429,8 +429,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_13.png",
-      "ascent": 28,
-      "height": 36,
+      "ascent": 22,
+      "height": 29,
       "chars": [
         "\ue02d"
       ]
@@ -438,8 +438,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_13_high.png",
-      "ascent": 90,
-      "height": 90,
+      "ascent": 72,
+      "height": 72,
       "chars": [
         "\ue10d"
       ]
@@ -447,8 +447,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_14.png",
-      "ascent": 28,
-      "height": 36,
+      "ascent": 22,
+      "height": 29,
       "chars": [
         "\ue02e"
       ]
@@ -456,8 +456,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_14_high.png",
-      "ascent": 90,
-      "height": 90,
+      "ascent": 72,
+      "height": 72,
       "chars": [
         "\ue10e"
       ]
@@ -465,8 +465,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_15.png",
-      "ascent": 28,
-      "height": 36,
+      "ascent": 22,
+      "height": 29,
       "chars": [
         "\ue02f"
       ]
@@ -474,8 +474,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_15_high.png",
-      "ascent": 90,
-      "height": 90,
+      "ascent": 72,
+      "height": 72,
       "chars": [
         "\ue10f"
       ]
@@ -483,8 +483,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_16.png",
-      "ascent": 28,
-      "height": 36,
+      "ascent": 22,
+      "height": 29,
       "chars": [
         "\ue030"
       ]
@@ -492,8 +492,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_16_high.png",
-      "ascent": 90,
-      "height": 90,
+      "ascent": 72,
+      "height": 72,
       "chars": [
         "\ue110"
       ]
@@ -501,8 +501,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_17.png",
-      "ascent": 28,
-      "height": 36,
+      "ascent": 22,
+      "height": 29,
       "chars": [
         "\ue031"
       ]
@@ -510,8 +510,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_17_high.png",
-      "ascent": 90,
-      "height": 90,
+      "ascent": 72,
+      "height": 72,
       "chars": [
         "\ue111"
       ]
@@ -519,8 +519,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_18.png",
-      "ascent": 28,
-      "height": 36,
+      "ascent": 22,
+      "height": 29,
       "chars": [
         "\ue032"
       ]
@@ -528,8 +528,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_18_high.png",
-      "ascent": 90,
-      "height": 90,
+      "ascent": 72,
+      "height": 72,
       "chars": [
         "\ue112"
       ]
@@ -537,8 +537,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_19.png",
-      "ascent": 28,
-      "height": 36,
+      "ascent": 22,
+      "height": 29,
       "chars": [
         "\ue033"
       ]
@@ -546,8 +546,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_19_high.png",
-      "ascent": 90,
-      "height": 90,
+      "ascent": 72,
+      "height": 72,
       "chars": [
         "\ue113"
       ]
@@ -555,8 +555,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_20.png",
-      "ascent": 28,
-      "height": 36,
+      "ascent": 22,
+      "height": 29,
       "chars": [
         "\ue034"
       ]
@@ -564,8 +564,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_20_high.png",
-      "ascent": 90,
-      "height": 90,
+      "ascent": 72,
+      "height": 72,
       "chars": [
         "\ue114"
       ]
@@ -573,8 +573,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_21.png",
-      "ascent": 28,
-      "height": 36,
+      "ascent": 22,
+      "height": 29,
       "chars": [
         "\ue035"
       ]
@@ -582,8 +582,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_21_high.png",
-      "ascent": 90,
-      "height": 90,
+      "ascent": 72,
+      "height": 72,
       "chars": [
         "\ue115"
       ]
@@ -591,8 +591,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_22.png",
-      "ascent": 28,
-      "height": 36,
+      "ascent": 22,
+      "height": 29,
       "chars": [
         "\ue036"
       ]
@@ -600,8 +600,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_22_high.png",
-      "ascent": 90,
-      "height": 90,
+      "ascent": 72,
+      "height": 72,
       "chars": [
         "\ue116"
       ]
@@ -609,8 +609,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_23.png",
-      "ascent": 28,
-      "height": 36,
+      "ascent": 22,
+      "height": 29,
       "chars": [
         "\ue037"
       ]
@@ -618,8 +618,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/dial_cd_23_high.png",
-      "ascent": 90,
-      "height": 90,
+      "ascent": 72,
+      "height": 72,
       "chars": [
         "\ue117"
       ]
@@ -627,8 +627,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/digits.png",
-      "ascent": 16,
-      "height": 16,
+      "ascent": 13,
+      "height": 13,
       "chars": [
         "\ue040\ue041\ue042\ue043\ue044\ue045\ue046\ue047\ue048\ue049"
       ]
@@ -636,8 +636,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/colon.png",
-      "ascent": 16,
-      "height": 16,
+      "ascent": 13,
+      "height": 13,
       "chars": [
         "\ue04a"
       ]
@@ -645,8 +645,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/digits_high.png",
-      "ascent": 78,
-      "height": 78,
+      "ascent": 62,
+      "height": 62,
       "chars": [
         "\ue120\ue121\ue122\ue123\ue124\ue125\ue126\ue127\ue128\ue129"
       ]
@@ -654,8 +654,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/colon_high.png",
-      "ascent": 78,
-      "height": 78,
+      "ascent": 62,
+      "height": 62,
       "chars": [
         "\ue12a"
       ]
@@ -663,8 +663,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/seg_full.png",
-      "ascent": 4,
-      "height": 16,
+      "ascent": 3,
+      "height": 13,
       "chars": [
         "\ue060"
       ]
@@ -672,8 +672,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/seg_empty.png",
-      "ascent": 4,
-      "height": 16,
+      "ascent": 3,
+      "height": 13,
       "chars": [
         "\ue061"
       ]
@@ -681,8 +681,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/seg_neg.png",
-      "ascent": 4,
-      "height": 16,
+      "ascent": 3,
+      "height": 13,
       "chars": [
         "\ue062"
       ]
@@ -690,8 +690,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/key_one.png",
-      "ascent": 3,
-      "height": 18,
+      "ascent": 2,
+      "height": 14,
       "chars": [
         "\ue070"
       ]
@@ -699,8 +699,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/key_two.png",
-      "ascent": 3,
-      "height": 18,
+      "ascent": 2,
+      "height": 14,
       "chars": [
         "\ue071"
       ]
@@ -708,8 +708,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/key_three_high.png",
-      "ascent": 65,
-      "height": 65,
+      "ascent": 52,
+      "height": 52,
       "chars": [
         "\ue073"
       ]
@@ -717,8 +717,8 @@
     {
       "type": "bitmap",
       "file": "protsmp:font/label_locked.png",
-      "ascent": 3,
-      "height": 18,
+      "ascent": 2,
+      "height": 14,
       "chars": [
         "\ue072"
       ]
